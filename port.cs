@@ -6,7 +6,7 @@ namespace TestToBeDeleted100804
 {
     class port:System.IO.Ports.SerialPort
     {
-        public port() { System.Windows.Forms.MessageBox.Show("mama"); }
+        new port() { int i = 1; }
     }
     class myTrial:System.IO.Ports.SerialPort
     {
