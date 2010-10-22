@@ -6,7 +6,7 @@ namespace TestToBeDeleted100804
 {
     class port:System.IO.Ports.SerialPort
     {
-        public port() { int i = 2; }
+        public port() { int i = 3; }
     }
     class myTrial:System.IO.Ports.SerialPort
     {
