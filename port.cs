@@ -10,7 +10,7 @@ namespace TestToBeDeleted100804
         /// Elsõ módosítás
 
         /// </summary>
-        public port() { }
+        public port() { int i = 2; }
     }
     class myTrial:System.IO.Ports.SerialPort
     {
