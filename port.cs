@@ -6,6 +6,9 @@ namespace TestToBeDeleted100804
 {
     class port:System.IO.Ports.SerialPort
     {
+        /// <summary>
+        /// Elsõ
+        /// </summary>
         new port() { }
     }
     class myTrial:System.IO.Ports.SerialPort
