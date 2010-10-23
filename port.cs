@@ -7,7 +7,7 @@ namespace TestToBeDeleted100804
     class port:System.IO.Ports.SerialPort
     {
         /// <summary>
-        /// Elsõ módosítás
+        /// Második módosítás
         /// </summary>
         public port() { }
     }
