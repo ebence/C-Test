@@ -7,8 +7,7 @@ namespace TestToBeDeleted100804
     class port:System.IO.Ports.SerialPort
     {
         /// <summary>
-        /// Elsõ módosítás
-
+        /// No ez megy a stashbe...
         /// </summary>
         public port() { int i = 2; }
     }
